@@ -17,3 +17,10 @@
 
 [![Telegram API](https://shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logoColor=white&logo=telegram)](https://core.telegram.org)
 [![Git](https://shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
+
+### 📢 Socials
+
+[![Telegram](https://shields.io/badge/Telegram-0088cc?style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/foxfil)
+[![Discord](https://shields.io/badge/Discord-5865f2?style=for-the-badge&logoColor=white&logo=discord)](https://t.me/foxfil)
+[![YouTube](https://shields.io/badge/YouTube-ff0000?style=for-the-badge&logoColor=white&logo=youtube)](https://www.youtube.com/channel/UCsvW5KaVMNZJOpSWnzgK7Lg) 
+[![Email](https://shields.io/badge/Email-34a853?style=for-the-badge&logoColor=white&logo=gmail)](mailto:filipp.vesker@gmail.com)

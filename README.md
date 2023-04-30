@@ -16,7 +16,7 @@
 ### :globe_with_meridians: Other
 
 [![Telegram API](https://shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logoColor=white&logo=telegram)](https://core.telegram.org)
-[![Discord API](https://shields.io/badge/Discord-5865f2?style=for-the-badge&logoColor=white&logo=discord)](https://discord.com/developers/docs/intro)
+[![Discord API](https://shields.io/badge/Discord%20API-5865f2?style=for-the-badge&logoColor=white&logo=discord)](https://discord.com/developers/docs/intro)
 [![Git](https://shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
 
 ### 📢 Socials

@@ -5,7 +5,6 @@
 ### :speech_balloon: Languages
 
 [![Python](https://shields.io/badge/Python-9f7a00?style=for-the-badge&logoColor=white&logo=python)](https://python.org)
-[![HTML](<https://shields.io/badge/HTML-f06529?style=for-the-badge&logoColor=white&logo=html5>)](https://html.spec.whatwg.org/multipage/)
 
 ### :key: SDKs
 
